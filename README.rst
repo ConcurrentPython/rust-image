@@ -20,7 +20,8 @@ With a nightly Rust installation::
 Running
 =======
 
-::
+With an ``images`` directory containing only image files in the top-level
+directory::
 
   ./target/release/linear
   ./target/release/threaded
