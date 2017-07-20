@@ -1,0 +1,7 @@
+[package]
+name = "RustyImage"
+version = "0.1.0"
+authors = ["Jim Fulton <jim@jimfulton.info>"]
+
+[dependencies]
+image = "0.14.0"
