@@ -20,5 +20,7 @@ With a nightly Rust installation::
 Running
 =======
 
+::
+
   ./target/release/linear
   ./target/release/threaded
