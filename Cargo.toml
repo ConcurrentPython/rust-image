@@ -5,3 +5,4 @@ authors = ["Jim Fulton <jim@jimfulton.info>"]
 
 [dependencies]
 image = "0.14.0"
+rayon = "0.8.2"
