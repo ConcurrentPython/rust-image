@@ -10,6 +10,9 @@ src/bin/linear
 src/bin/threaded
   Processes images in an ``images`` directory in separate threads.
 
+src/bin/rayon
+  Processes images in an ``images`` directory using a work-stealing thread pool.
+
 Building
 ========
 
@@ -25,3 +28,4 @@ directory::
 
   ./target/release/linear
   ./target/release/threaded
+  ./target/release/rayon
